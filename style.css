@@ -10,6 +10,16 @@
 #pe-seccion2{
     font-size: .8em;
 }
-#imagen-feliz{
-    height: auto;
+#pe-seccion3{
+    font-size: .8em;
+}
+
+@media (max-width: 390px){
+    h1{
+        font-size: 1.2em;
+    }
+    p{
+        font-size: .8em;
+    }
+    
 }
