@@ -1,0 +1,9 @@
+.header{
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(img/bg.jpeg);
+}
+.logo{
+    width: 130px;
+}
